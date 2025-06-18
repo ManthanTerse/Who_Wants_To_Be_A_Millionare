@@ -28,7 +28,6 @@ This is one of the projects from my 30 Days Python Challenge, where I’m buildi
 ![Screenshot 2025-06-18 164825](https://github.com/user-attachments/assets/d91b531a-9b8f-4f61-9ef4-01e1f61a2715)
 ![Screenshot 2025-06-18 164932](https://github.com/user-attachments/assets/ee670e33-a8e9-4606-aebb-e1d45d9e5025)
 
-🙇‍♂️ Connect With Me
-
+🙇‍♂️ Connect With Me :-
 🔗 LinkedIn :- [https://www.linkedin.com/in/manthanterse/?lipi=urn%3Ali%3Apage%3Ad_flagship3_leia_creator_analytics_content%3BXsSEPTtSR4GV83uzFcsbbg%3D%3D](https://www.linkedin.com/in/manthanterse/)
 
