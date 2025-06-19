@@ -28,5 +28,9 @@ This is one of the projects from my 30 Days Python 🐍 Challenge, where I’m b
 
 🙇‍♂️ Connect With Me :-
 🔗 LinkedIn :- [https://www.linkedin.com/in/manthanterse/?lipi=urn%3Ali%3Apage%3Ad_flagship3_leia_creator_analytics_content%3BXsSEPTtSR4GV83uzFcsbbg%3D%3D](https://www.linkedin.com/in/manthanterse/)
+
 or 
+
   Gmail : tersemanthan2006@gmail.com 
+
+
